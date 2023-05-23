@@ -3,6 +3,4 @@ The Jobs Finder is a mobile app I built using React Native and Expo Router. It w
 
 ## Screenshot
 
-![Screenshot 1](./assets/images/jobs2.png)
-![Screenshot 2](./assets/images/jobs1.png)
-![Screenshot 3](./assets/images/jobs3.png)
+![Screenshot 1](./assets/images/JobsApp.png)
