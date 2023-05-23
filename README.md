@@ -1,15 +1,8 @@
-# Expo Router Example
+# Jobs Application
+The Jobs Finder is a mobile app I built using React Native and Expo Router. It was my first React Native project, following a YouTube tutorial. The app streamlines the job search process by allowing users to search, filter, and save job listings. Through this project, I gained hands-on experience with React Native, Expo Router, and API integration. I'm enthusiastic about furthering my skills as a junior developer and creating more impactful mobile applications in the future.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## Screenshot
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+![Screenshot 1](./assets/images/jobs2.png)
+![Screenshot 2](./assets/images/jobs1.png)
+![Screenshot 3](./assets/images/jobs3.png)
